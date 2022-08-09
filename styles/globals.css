@@ -1,0 +1,99 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected {
+  color: #006647;
+}
+.MuiSvgIcon-colorPrimary {
+  color: #006341;
+}
+
+.MuiInputLabel-root {
+  color: #006341 !important;
+}
+
+/* .css-1a1fmpi-MuiInputBase-root-MuiInput-root:after {
+  border-bottom: #006341 !important;
+} */
+
+/* p.MuiTypography-root.MuiTypography-body1.css-ahj2mt-MuiTypography-root {
+  float: center;
+} */
+.moto-style {
+  background: #154c79;
+  border-radius: 50%;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+*/ .MuiLinearProgress-root {
+  height: 16px;
+  border-radius: 10px;
+  margin: 6px;
+  background-color: #bdbdbd;
+}
+
+.MuiLinearProgress-bar {
+  background: #4aaa38;
+}
+.progress-card {
+  border-radius: 5px;
+  box-shadow: 0.5px 0.5px 0.5px 0.5px rgb(176, 174, 174);
+}
+.border-green-top {
+  border-bottom: 3px solid #4aaa38;
+}
+*/ .border-green-top-bottom {
+  border-top: 3px solid #4aaa38;
+  border-bottom: 3px solid #4aaa38;
+}
+*/ .list-plan {
+  color: #4aaa38;
+}
+.MuiTypography-root {
+  color: black;
+}
+
+.listLi {
+  font-size: 20pt;
+}
+
+.alin {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+}
+
+.negritas {
+  font-weight: bold !important;
+}
+
+.MuiInputLabel-root {
+  color: #1565c0 !important;
+}
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected {
+  color: #a5dc86;
+}
+
+.css-lbx49t-MuiButtonBase-root-MuiButton-root:hover {
+  background-color: #004400;
+}
+
+.MuiInputLabel-root {
+  color: #004400 !important;
+}
